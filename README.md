@@ -27,4 +27,4 @@ year={2020}
 
 We are going through an internal process to open source the tool. Once it's approved, the code will be available in this repo. 
 
-Kun Qian
+- Authors of this work
