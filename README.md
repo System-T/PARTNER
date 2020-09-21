@@ -13,7 +13,7 @@ This github repository contains the code of the system (after going through the 
 }
 ```
 
-[2] Kun Qian, Poornima Chozhiyath Raman, Lucian Popa, Yunyao Li, [*PARTNER: Human-in-the-loop Entity Name Understanding with Deep Learning (AAAI 2020, demo track)*]()
+[2] Kun Qian, Poornima Chozhiyath Raman, Lucian Popa, Yunyao Li, [*PARTNER: Human-in-the-loop Entity Name Understanding with Deep Learning (AAAI 2020, demo track)*](https://aaai.org/ojs/index.php/AAAI/article/view/7104)
 
 ```
 @inproceedings{qian2020partner,
