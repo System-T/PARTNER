@@ -4,7 +4,7 @@ This github repository contains the code of the system (after going through the 
 [1] Kun Qian, Poornima Chozhiyath Raman, Lucian Popa, Yunyao Li, [*Learing Structured Representations of Entity Names using Active Learning and Weak Supervision (EMNLP 2020, to appear)*]()
 
 ```
-@article{qian2020partner,
+@article{qian2020emnlppartner,
   title={Learing Structured Representations of Entity Names using Active Learning and Weak Supervision},
   author={Qian, Kun and Chozhiyath Raman, Poornima and Popa, Lucian and Li, Yunyao},
   journal={EMNLP},
