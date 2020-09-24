@@ -1,4 +1,4 @@
-This github repository contains the code of the system (after going through the open source procedure) and datasets used in the following papers:
+### This github repository contains more details of the following two publications: 
 
 
 [1] Kun Qian, Poornima Chozhiyath Raman, Lucian Popa, Yunyao Li, [*Learing Structured Representations of Entity Names using Active Learning and Weak Supervision (EMNLP 2020, to appear)*]()
@@ -25,6 +25,6 @@ year={2020}
 }
 ```
 
-We are going through an internal process to open source the tool. Once it's approved, the code will be available in this repo. 
+#### Supplementary materials can be found [here](https://github.com/System-T/PARTNER/blob/master/supplementary.pdf)
 
-- Authors of this work
+#### We are going through an internal open source procedure, the datasets and code will be made publicly available as soon as it is approved.
