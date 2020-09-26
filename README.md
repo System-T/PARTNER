@@ -25,6 +25,6 @@ year={2020}
 }
 ```
 
-#### Supplementary materials can be found [here](https://github.com/System-T/PARTNER/blob/master/supplementary.pdf)
+Supplementary materials can be found [here](https://github.com/System-T/PARTNER/blob/master/supplementary.pdf)
 
-#### We are going through an internal open source procedure, the datasets and code will be made publicly available as soon as it is approved.
+## We are going through an internal open source procedure, the datasets and code will be made publicly available as soon as it is approved.
